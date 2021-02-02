@@ -1,0 +1,4 @@
+#!/bin/bash
+out=dist/app
+.packager/package.linux-x86_64.sh $out app.sh src bin/qjs bin/websocketd
+chmod 755 $out
