@@ -32,5 +32,4 @@ drwxr-xr-x 1 leon leon 4.0K Feb  2 20:32 ..
 
 # Todo
 
-The windows build doesn't respect the directory-structure and isn't really convenient (new files require editing .packager/package.SED 
-
+The windows build doesn't respect the directory-structure and isn't really convenient (new files require editing `.packager/package.SED` 
