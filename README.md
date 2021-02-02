@@ -1,4 +1,4 @@
-WQJS: Websocketd + QuickJS as single-binary startingpoint
+2MB all-in-one-binary approach for linux & windows (websocketd + quickjs) 
 
 > NOTE: this is an experimental approach
 
