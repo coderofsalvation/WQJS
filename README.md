@@ -1,4 +1,4 @@
-WQJS: Websocketd + QuickJS (+packages) single-binary startingpoint
+WQJS: Websocketd + QuickJS as single-binary startingpoint
 
 > NOTE: this is an experimental approach
 
