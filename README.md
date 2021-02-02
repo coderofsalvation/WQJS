@@ -2,6 +2,8 @@ WQJS: Websocketd + QuickJS (+packages) single-binary startingpoint
 
 > NOTE: this is an experimental approach
 
+<img src="https://raw.githubusercontent.com/coderofsalvation/WQJS/master/src/WQJS.gif" width="100%"/>
+
 ## Usage
 
 * [https://websocketd.com](https://websocketd.com) serves `src/html/index.html` and starts `src/app.js`
